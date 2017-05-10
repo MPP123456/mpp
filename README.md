@@ -9,5 +9,8 @@ now show me some code:
 public void main(){
 	
 }
+public void mpp(){
+	 
+}
 
 ```
